@@ -1,0 +1,10 @@
+C:\Users\adari\source\repos\SpeedRacers\obj\Debug\SpeedRacers.csprojAssemblyReference.cache
+C:\Users\adari\source\repos\SpeedRacers\obj\Debug\SpeedRacers.Form1.resources
+C:\Users\adari\source\repos\SpeedRacers\obj\Debug\SpeedRacers.Properties.Resources.resources
+C:\Users\adari\source\repos\SpeedRacers\obj\Debug\SpeedRacers.csproj.GenerateResource.cache
+C:\Users\adari\source\repos\SpeedRacers\obj\Debug\SpeedRacers.csproj.CoreCompileInputs.cache
+C:\Users\adari\source\repos\SpeedRacers\bin\Debug\SpeedRacers.exe.config
+C:\Users\adari\source\repos\SpeedRacers\bin\Debug\SpeedRacers.exe
+C:\Users\adari\source\repos\SpeedRacers\bin\Debug\SpeedRacers.pdb
+C:\Users\adari\source\repos\SpeedRacers\obj\Debug\SpeedRacers.exe
+C:\Users\adari\source\repos\SpeedRacers\obj\Debug\SpeedRacers.pdb
